@@ -4,5 +4,6 @@ public class Echo {
     
 	void hallo() {
 		System.out.println("Halloooo...");
+    System.out.println("Morgen");
 	}
 }
